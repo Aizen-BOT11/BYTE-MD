@@ -72,17 +72,17 @@ global.SESSION_ID =
 
 
 module.exports = {
-  menu: process.env.MENU || "",
+  menu: process.env.MENU || "ᬊ᭄ƖƝSTƖƝCT",
 
   //Prefix variable
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "*Powered By TalkDrove*",
+  caption: process.env.CAPTION || "*Powered By ᬊ᭄ƖƝSTƖƝCT*",
   author: process.env.PACK_AUTHER || "TalkDrove",
-  packname: process.env.PACK_NAME || "♥️",
+  packname: process.env.PACK_NAME || "ᬊ᭄ƖƝSTƖƝCT",
   botname: process.env.BOT_NAME || "BYTE-MD",
-  ownername: process.env.OWNER_NAME || "TalkDrove",
+  ownername: process.env.OWNER_NAME || "ᬊ᭄ƖƝSTƖƝCT",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
